@@ -1,0 +1,29 @@
+#######################
+
+MODEL:
+  NAME: 'Former'
+  QUERY: 8
+  CHANNEL: 48
+  GROUP: 1
+
+TRAIN:
+  DATASET: 'Snow100K'
+  GPU: 0,1,2,3
+  TRAIN_PS: 128
+  VAL_PS: None
+  VAL_AFTER_EVERY: 1
+
+  RESUME: False
+  EXP_EPOCHS: 0
+  F_BATCHSIZE: 20
+  F_EPOCHS: 20
+  V_BATCHSIZE: 40
+  V_EPOCHS: 200
+  LR_INITIAL: 2e-4
+  LR_MIN: 1e-6
+
+DIR:
+  TRAIN_DIR: 'F:/Downloads/DATA/BadWeather/DeSnow/Snow100K/train/'
+  VAL_DIR: 'F:/Downloads/DATA/BadWeather/DeSnow/Snow100K/test1200/'
+  SAVE_DIR: './checkpoints/'
+
