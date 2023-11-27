@@ -1,7 +1,7 @@
 # LMQFormer: A Laplace-Prior-Guided Mask Query
 Transformer for Lightweight Snow Removal <br> (Accepted by IEEE TCSVT)
 
-![result](E:\RSC\CV\LMQFormer：Snow Removal\LMQFormer-main\img\result.png)
+![result](.\img\result.png)
 
 Qualitative results on synthetic datasets. From top to bottom rows: Snow100K, SRRS, CSD, SnowKitti2012 and SnowCityScapes. Please zoom in for better visual quality
 
