@@ -2,7 +2,7 @@
 
 ![result](https://github.com/StephenLinn/LMQFormer/blob/main/img/result.png)
 
-Qualitative results on synthetic datasets. From top to bottom rows: Snow100K, SRRS, CSD, SnowKitti2012 and SnowCityScapes. Please zoom in for better visual quality
+Qualitative results on synthetic datasets. From top to bottom rows: Snow100K, SRRS, CSD, SnowKitti2012 and SnowCityScapes. Please zoom in for better visual quality.
 
 # Abstract:
 
