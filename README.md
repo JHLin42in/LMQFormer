@@ -1,6 +1,7 @@
 # LMQFormer: A Laplace-Prior-Guided Mask Query Transformer for Lightweight Snow Removal <br> (Accepted by IEEE TCSVT)
 
-![result](https://github.com/StephenLinn/LMQFormer/blob/main/img/result.png)
+<img src=".\img\result.png" alt="result" style="zoom:50%;" />
+
 
 Qualitative results on synthetic datasets. From top to bottom rows: Snow100K, SRRS, CSD, SnowKitti2012 and SnowCityScapes. Please zoom in for better visual quality.
 
@@ -17,7 +18,7 @@ You can also refer our works on other low-level vision applications!
 
 # Network Architecture
 
-![network](https://github.com/StephenLinn/LMQFormer/blob/main/img/network.png)
+<img src=".\img\network.png" alt="network" style="zoom:50%;" />
 
 
 # Setup and environment
@@ -37,7 +38,9 @@ Please replace weights_dir data_dir and result_dir in test.py, and put your test
 
 #### Pre-trained model
 It can be downloaded from：
+
 Link: https://pan.baidu.com/s/1ED2hIoAiPciAHAqDt_pNMg 
+
 Extract code: LMQF
 
 
