@@ -35,7 +35,10 @@ We trained our model in five snow removal datasets, including Snow100K, SRRS, CS
 
 Please replace weights_dir data_dir and result_dir in test.py, and put your testset in data_dir.
 
-The pre-trained model can be found in checkpoint folder.
+#### Pre-trained model
+It can be downloaded from：
+Link: https://pan.baidu.com/s/1ED2hIoAiPciAHAqDt_pNMg 
+Extract code: LMQF
 
 
 # Citations
